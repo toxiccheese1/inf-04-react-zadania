@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+.Powitanie{
+  font-size:large;
+  padding:10px;
+}
+#tekst-ramka{
+  border-width: 2px;
+  border-style:dashed;
+  border-color: darkgray;
+  border-radius: 15px;
+  float:center;
+  padding: 10px;
+  color:pink;
+  display:flex;
+  margin:20px;
+  
+}
+.red{
+  background-color:red;
+  height: 200px;
+  width: 200px;
+}
+.blue{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+.green{
+  background-color:green;
+  height: 200px;
+  width: 200px;
+}
